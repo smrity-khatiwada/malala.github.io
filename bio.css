@@ -1,0 +1,82 @@
+*{
+    box-sizing:border-box;
+    font-size:18px;
+}
+body{
+    background-color:rgb(43, 42, 46);
+}
+.container{
+    width:1000px;
+    margin:40px auto;
+    background-color:beige;
+    color:gray:
+    overflow:hidden;
+    
+}
+.container h2{
+    margin:0px;
+    padding:20px;
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 400;
+    background-color:white;
+}
+.container img{
+    float:left;
+    width:200px;
+    height:200px;
+    margin:20px;
+    position: relative;
+}
+.container bio{
+    position:relative;
+    margin:20px;
+}
+.container h1 img{
+    float:right;
+
+}
+.container h1{
+    text-align:center;
+}
+.team-section{
+    overflow:hidden;
+    color:white;
+    
+    background:rgb(43, 42, 46);
+    padding:60px;
+}
+.team-section h1{
+    text-align:center;
+    color:white;
+    font-size:25px;
+    margin-bottom:60px;
+    font-size:40px;
+}
+.border{
+    display:block;
+    margin:auto;
+    width:160px;
+    height:4px;
+    margin-bottom: 40px;
+}
+.ps{
+    margin-bottom:40px;
+}
+.ps a{
+    display:inline-block;
+    margin:0 30px;
+    width:160px;
+    height:160px;
+    overflow: hidden;
+    border-radius: 20%;
+    transition: 0.45;
+
+}
+.ps img a{
+    width:100%;
+}
+.nobel{
+    font-style: italic;
+    
+}
